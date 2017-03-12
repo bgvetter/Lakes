@@ -51,7 +51,7 @@ public class Lake {
             dTime = numberScanner.nextDouble();
             runTimes.add(dTime);
 
-            System.out.println("Continue adding lake times for "+this.lakeName+"? Y/N");
+            System.out.println("Continue adding lake times for "+this.lakeName+" lake? Y/N");
             sContinue=stringScanner.next();
         }
 
